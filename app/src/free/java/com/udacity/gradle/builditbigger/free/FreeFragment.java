@@ -1,4 +1,4 @@
-package com.udacity.gradle.builditbigger.paid;
+package com.udacity.gradle.builditbigger.free;
 
 
 import android.os.Bundle;
