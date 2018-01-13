@@ -8,10 +8,10 @@ import android.util.Pair;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
-import android.widget.Toast;
+//import android.widget.Toast;
 
 import com.quantrian.jokeactivitylibrary.JokeActivity;
-import com.quantrian.jokelibrary.JokeGenerator;
+//import com.quantrian.jokelibrary.JokeGenerator;
 
 
 public class MainActivity extends AppCompatActivity {
